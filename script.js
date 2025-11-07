@@ -1,1 +1,1 @@
-Console.Log("Hello world")
+Console.Log("?")
